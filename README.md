@@ -96,3 +96,4 @@ pytest --cov=server --cov-report=term-missing
 
 ## Screenshots
 <img width="551" height="224" alt="image" src="https://github.com/user-attachments/assets/bb49cf07-a489-4d5d-9b97-84345d77311c" />
+<img width="727" height="530" alt="image" src="https://github.com/user-attachments/assets/4913e4ff-92fd-4e4a-a339-3a6be3e75559" />
